@@ -4,3 +4,7 @@
 function take(arr, n) {
     return arr.slice(0, n)
   }
+
+  //If the arrary plugged in is [1,2,3,4,5]
+  //and the n = 3
+  // out put will be 1,2,3
